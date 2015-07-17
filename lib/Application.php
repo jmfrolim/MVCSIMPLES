@@ -23,7 +23,7 @@ function __autoload($st_class)
 * Caso o método (Action) não seja especificado, o indexAction será o padrão
 * 
 * @package Exemplo simples com MVC
-* @author JMFROLIM
+* @author Joao Manoel
 * 
 **/
 class Application
